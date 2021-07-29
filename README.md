@@ -1,6 +1,6 @@
 # Proyecto - Inteligencia artificial para Pymes: Sistema de Recomendación
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Descripcion 
 El proyecto consiste en la construcción de un sistema de comendaciones de productos por cliente con base en las compras realizadas en una empresa X. El proyecto hace uso de algoritmos conocidos en los sistemas de recomendación como son reglas de asociación y filtros colaborativos
