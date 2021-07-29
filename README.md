@@ -1,6 +1,6 @@
 # Proyecto - Inteligencia artificial para Pymes: Sistema de Recomendación
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Descripcion 
 El proyecto consiste en la construcción de un sistema de comendaciones de productos por cliente con base en las compras realizadas en una empresa X. El proyecto hace uso de algoritmos conocidos en los sistemas de recomendación como son reglas de asociación y filtros colaborativos
@@ -17,15 +17,17 @@ En este repositorio encontrarás el código dividido en carpetas enumeradas indi
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/eeiy"><img src="https://avatars.githubusercontent.com/u/18734705?v=4?s=100" width="100px;" alt=""/><br /><sub><b>eeiy</b></sub></a><br /><a href="https://github.com/g1AI/SAI_PYMES/commits?author=eeiy" title="Code">💻</a></td>
+    <td align="center"><a href="https://bit.ly/asuskf_channel"><img src="https://avatars.githubusercontent.com/u/36687747?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kevin David</b></sub></a><br /><a href="https://github.com/g1AI/SAI_PYMES/commits?author=asuskf" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/aaorella"><img src="https://avatars.githubusercontent.com/u/21124596?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Allan Orellana</b></sub></a><br /><a href="https://github.com/g1AI/SAI_PYMES/commits?author=aaorella" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Komodroid"><img src="https://avatars.githubusercontent.com/u/79285823?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CatFlip™</b></sub></a><br /><a href="https://github.com/g1AI/SAI_PYMES/commits?author=Komodroid" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jxvargas"><img src="https://avatars.githubusercontent.com/u/17301417?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jorge Vargas</b></sub></a><br /><a href="https://github.com/g1AI/SAI_PYMES/commits?author=jxvargas" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -34,4 +36,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

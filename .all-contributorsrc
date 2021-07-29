@@ -22,6 +22,33 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "jxvargas",
+      "name": "Jorge Vargas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17301417?v=4",
+      "profile": "https://github.com/jxvargas",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "eeiy",
+      "name": "eeiy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18734705?v=4",
+      "profile": "https://github.com/eeiy",
+       "contributions": [
+        "code"
+      ]
+     },
+     {
+      "login": "asuskf",
+      "name": "Kevin David",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36687747?v=4",
+      "profile": "https://bit.ly/asuskf_channel",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
