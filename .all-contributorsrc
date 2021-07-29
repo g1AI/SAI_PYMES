@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "aaorella",
+      "name": "Allan Orellana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21124596?v=4",
+      "profile": "https://github.com/aaorella",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "SAI_PYMES",
+  "projectOwner": "g1AI",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
