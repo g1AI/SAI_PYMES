@@ -25,6 +25,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/aaorella"><img src="https://avatars.githubusercontent.com/u/21124596?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Allan Orellana</b></sub></a><br /><a href="https://github.com/g1AI/SAI_PYMES/commits?author=aaorella" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/eeiy"><img src="https://avatars.githubusercontent.com/u/18734705?v=4?s=100" width="100px;" alt=""/><br /><sub><b>eeiy</b></sub></a><br /><a href="https://github.com/g1AI/SAI_PYMES/commits?author=eeiy" title="Code">💻</a></td>
     <td align="center"><a href="https://bit.ly/asuskf_channel"><img src="https://avatars.githubusercontent.com/u/36687747?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kevin David</b></sub></a><br /><a href="https://github.com/g1AI/SAI_PYMES/commits?author=asuskf" title="Code">💻</a></td>
   </tr>
 </table>
