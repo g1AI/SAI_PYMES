@@ -3,13 +3,19 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Descripcion 
-El proyecto consiste en la construcción de un sistema de comendaciones de productos por cliente con base en las compras realizadas en una empresa X. El proyecto hace uso de algoritmos conocidos en los sistemas de recomendación como son reglas de asociación y filtros colaborativos
+El proyecto consiste en la construcción de un sistema de recomendaciones de productos por cliente con base en las compras realizadas en una empresa X. El proyecto hace uso de algoritmos conocidos en los sistemas de recomendación, en este caso reglas de asociación
 
 Para la construcción del sistema se hizo uso del las siguientes herramientas:
 
  - Power BI
- - Python (Pandas, Sklearn, Turicreate, entre otras librerías)
+ - Python (Pandas, Sklearn, Apriori, entre otras librerías)
  
+ ## Articulo
+ https://medium.com/@komodroid/inteligencia-artificial-en-las-pymes-aa5a934b6f53
+ 
+ ## Demo
+ https://app.powerbi.com/links/_eXkjJKn2p?ctid=f9e89d34-2e69-42ff-aadd-b5d42df434b1&pbi_source=linkShare
+
  ## Estructura
 En este repositorio encontrarás el código dividido en carpetas enumeradas indicando el orden de ejecución del sistema, adicional encontrarás el código en Power Bi, presentación en diapositivas del proyecto y un link a un artículo publicado en Medium.
 
